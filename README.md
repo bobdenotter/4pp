@@ -8,12 +8,12 @@ Deze 4PP (4-cijferige postcodes) tabel ontsluit vrije geografische gegevens in N
 Plaatsen, postcodes, straten, netnummers en geo-coördinaten (lengtegraad / breedtegraad)
 zijn opgenomen als afzonderlijke rijen.
 
-De tabel is beschikbaar als (mysql) .sql en generiek .csv bestand.
+De tabel is beschikbaar als (mysql) `.sql` en generiek `.csv` bestand.
 
 Deze database / tabel is samengesteld, omdat de oude versie op
 http://kvdb.net/projects/6pp niet meer beschikbaar is. In tegenstelling tot de
 oorsronkelijke tabel bevat deze versie betere geo-locatie. Zo zitten niet meer alle
-postcodes in Den Haag op hetzelfe coordinaat, maar zijn ze verschillend. Zie bijv:
+postcodes in Den Haag op hetzelfe coördinaat, maar zijn ze verschillend. Zie bijv:
 
 Oud:
 
