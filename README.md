@@ -5,7 +5,7 @@
 ---------------------------------
 
 Deze 4PP (4-cijferige postcodes) tabel ontsluit vrije geografische gegevens in Nederland.
-Plaatsen, postcodes, straten, netnummers en geo-coördinaten (lengtegraad / breedtegraad)
+Plaatsen, postcodes, netnummers en geo-coördinaten (lengtegraad / breedtegraad)
 zijn opgenomen als afzonderlijke rijen.
 
 De tabel is beschikbaar als (mysql) `.sql` en generiek `.csv` bestand.
