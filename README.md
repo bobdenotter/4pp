@@ -42,3 +42,6 @@ postcode   woonplaats     latitude       longitude
 2517       Den Haag       52.0895671     4.2865074
 2518       Den Haag       52.0801488     4.2899304
 ```
+
+Ben je op zoek naar een 6pp database (dus, alle combinaties van 4 cijfers plus 2 letters), kijk dan hier: http://www.postcodedata.nl/download/
+
