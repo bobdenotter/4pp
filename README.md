@@ -12,7 +12,7 @@ De tabel is beschikbaar als (mysql) `.sql` en generiek `.csv` bestand.
 
 Deze database / tabel is samengesteld, omdat de oude versie op
 http://kvdb.net/projects/6pp niet meer beschikbaar is. In tegenstelling tot de
-oorsronkelijke tabel bevat deze versie betere geo-locatie. Zo zitten niet meer alle
+oorspronkelijke tabel bevat deze versie betere geo-locatie. Zo zitten niet meer alle
 postcodes in Den Haag op hetzelfe coördinaat, maar zijn ze verschillend. Zie bijv:
 
 Oud:
